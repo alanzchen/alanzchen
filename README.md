@@ -14,5 +14,5 @@
 - 💬 Ask me about anything: [blog.zenan.ch/ask](blog.zenan.ch/ask)
 - 📫 How to reach me: contact at zenan.ch
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
 
